@@ -1,0 +1,3 @@
+decision_id,date,topic,decision,owner,status
+DEMO-DEC-001,2026-08-30,Integration Strategy,Adopt managed API-first pattern,Demo CTO Owner,Approved
+DEMO-DEC-002,2026-08-30,Analytics Platform,Consolidate duplicate reporting tools,Demo Data Owner,Approved

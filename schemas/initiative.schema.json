@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TechnologyInitiative",
+  "type": "object",
+  "required": ["initiative_id", "name", "status"],
+  "properties": {
+    "initiative_id": {"type": "string"},
+    "name": {"type": "string"},
+    "strategic_theme": {"type": ["string", "null"]},
+    "business_owner": {"type": ["string", "null"]},
+    "technology_owner": {"type": ["string", "null"]},
+    "budget": {"type": ["number", "null"], "minimum": 0},
+    "status": {"type": "string"},
+    "rag": {"type": ["string", "null"]}
+  }
+}

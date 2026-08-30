@@ -1,0 +1,3 @@
+vendor_id,service,criticality,period_spend,sla_status,risk_level,renewal_date,owner
+DEMO-VND-001,Demo Cloud Platform,High,900000,Green,Medium,2027-02-01,Demo Platform Owner
+DEMO-VND-002,Demo ERP Support,High,600000,Amber,Medium,2026-12-15,Demo Applications Owner

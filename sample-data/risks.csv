@@ -1,0 +1,3 @@
+risk_id,category,description,likelihood,impact,owner,status
+DEMO-TR-001,Cybersecurity,Privileged access coverage gap,3,5,Demo Security Owner,Open
+DEMO-TR-002,Vendor,High dependency on strategic platform provider,3,4,Demo CTO Owner,Mitigating

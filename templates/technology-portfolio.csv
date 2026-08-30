@@ -1,0 +1,3 @@
+initiative_id,name,strategic_theme,business_owner,technology_owner,budget,status,rag,benefit
+DEMO-TECH-001,Demo Core Platform Modernization,Core Platforms,Demo Business Owner,Demo CTO Owner,3000000,In Delivery,Amber,Improved process reliability
+DEMO-TECH-002,Demo Analytics Enablement,Data,Demo Finance Owner,Demo Data Owner,1800000,Planned,Green,Faster management reporting

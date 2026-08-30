@@ -1,0 +1,6 @@
+metric,actual,target,status,period
+Portfolio Green %,72,80,Amber,2026-Q3
+Budget Variance %,1.8,3,Green,2026-Q3
+Critical Risks Open,3,0,Red,2026-Q3
+Availability %,99.8,99.5,Green,2026-Q3
+AI Use Cases in Production,4,5,Amber,2026-Q3
