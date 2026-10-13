@@ -37,4 +37,4 @@ Strategy → Priorities → Portfolio → Funding → Delivery → Risk/Architec
 10. Public examples use fictional data only.
 
 ## Author
-Eng. Islam El Sherbiny
+Eng. Islam El-Sherbiny
